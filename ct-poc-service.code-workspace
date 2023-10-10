@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ct-poc-service",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
